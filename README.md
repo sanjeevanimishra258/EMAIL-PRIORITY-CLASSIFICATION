@@ -5,7 +5,7 @@ Binary classification using Logistic Regression to predict email priority
 ## Overview
 This project develops a binary classification model using Logistic Regression to predict whether an incoming email should be marked as high priority based on sender history, message urgency, and metadata.
 
-Completed for Track 2 Classification Practice, Problem 08.
+Completed for Track 1 Classification Practice, Problem 03.
 
 ## Objective
 Train a binary classification model using the following predictors:
